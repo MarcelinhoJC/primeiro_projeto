@@ -1,0 +1,1 @@
+Este projeto consiste no desenvolvimento de uma calculadora simples em linguagem Python, capaz de realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão. O objetivo principal é aplicar conceitos fundamentais de programação, como entrada e saída de dados, estruturas condicionais, funções e tratamento de erros. 
